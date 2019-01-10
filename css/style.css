@@ -3,6 +3,7 @@ Author: W3layouts
 Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
+w3_agileits_header_text
 --*/
 html, body{
     font-size: 100%;
@@ -237,9 +238,10 @@ ul.dropdown-menu.agile_short_dropdown li a{
     margin: .6em 0 0 10em;
 }
 .w3_agileits_header_text h2{
-	color:#212121;
+	color:#2baf2b;
 	line-height:1.5em;
-	font-size:14px;
+	font-size:24px;
+	font-weight: bold;
 }
 .wthree_search{
 	float: right;
